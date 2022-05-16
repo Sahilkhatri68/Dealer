@@ -59,7 +59,7 @@
 	@include transition(.4s);
 	color:$theme-color;
 */
-/* line 58, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
+/* line 58, */
 .boxed-btn {
     background: #fff;
     color: #14435c !important;
@@ -77,55 +77,37 @@
     cursor: pointer;
 }
 
-/* line 75, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
+/* line 75, */
 .boxed-btn:hover {
     background: #14435c;
     color: #fff !important;
     border: 1px solid #14435c;
 }
 
-/* line 80, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
+/* line 80, */
 .boxed-btn:focus {
     outline: none;
 }
 
-/* line 83, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
+/* line 83, */
 
 /*--
     - Overlay
 ------------------------------------------*/
-/* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
+/* line 4,  */
 
-/* line 9, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
+/* line 9,  */
 
-/*-- Overlay Opacity --*/
-/* line 22, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 32, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 42, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 47, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 52, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 57, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
-
-/* line 62, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
 
 /* 1. Theme default css */
-/* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 4,  */
 body {
     font-family: "Poppins", sans-serif;
     font-weight: normal;
     font-style: normal;
 }
 
-/* line 9, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 9,  */
 h1,
 h2,
 h3,
@@ -140,7 +122,7 @@ h6 {
     text-transform: normal;
 }
 
-/* line 23, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 23,  */
 p {
     font-family: "Poppins", sans-serif;
     color: #10285d;
@@ -150,23 +132,23 @@ p {
     font-weight: normal;
 }
 
-/* line 34, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 34,  */
 .single-brand.slick-slide {
     outline: 0;
 }
 
-/* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 37,  */
 .slick-initialized .slick-slide {
     outline: 0;
 }
 
-/* line 42, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 42,  */
 
-/* line 45, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 45,  */
 
-/* line 48, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 48,  */
 
-/* line 53, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 53,  */
 .img {
     max-width: 100%;
     -webkit-transition: all 0.3s ease-out 0s;
@@ -176,24 +158,24 @@ p {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 57, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 57,  */
 
-/* line 60, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 60,  */
 .f-right {
     float: right;
 }
 
-/* line 63, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 63,  */
 .fix {
     overflow: hidden;
 }
 
-/* line 66, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 66,  */
 .clear {
     clear: both;
 }
 
-/* line 70, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 70,  */
 a,
 .button {
     -webkit-transition: all 0.3s ease-out 0s;
@@ -203,37 +185,37 @@ a,
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 74, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 74,  */
 a:focus,
 .button:focus {
     text-decoration: none;
     outline: none;
 }
 
-/* line 79, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 79,  */
 a {
     color: #635c5c;
 }
 
-/* line 82, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 82,  */
 a:hover {
     color: #fff;
 }
 
-/* line 85, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 85,  */
 a:focus,
 a:hover {
     text-decoration: none;
 }
 
-/* line 91, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 91,  */
 a,
 button {
     color: #fff;
     outline: medium none;
 }
 
-/* line 96, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 96,  */
 button:focus,
 input:focus,
 input:focus,
@@ -242,9 +224,9 @@ textarea:focus {
     outline: 0;
 }
 
-/* line 97, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 97,  */
 
-/* line 101, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 101,  */
 input:focus::-moz-placeholder {
     opacity: 0;
     -webkit-transition: .4s;
@@ -252,9 +234,9 @@ input:focus::-moz-placeholder {
     transition: .4s;
 }
 
-/* line 108, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 108,  */
 
-/* line 112, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 112,  */
 h1 a,
 h2 a,
 h3 a,
@@ -264,64 +246,64 @@ h6 a {
     color: inherit;
 }
 
-/* line 121, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 121,  */
 ul {
     margin: 0px;
     padding: 0px;
 }
 
-/* line 125, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 125,  */
 li {
     list-style: none;
 }
 
-/* line 129, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 129,  */
 
 /* Theme-overlay */
-/* line 137, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 137,  */
 
-/* line 140, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 140,  */
 
-/* line 150, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 150,  */
 
-/* line 154, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 154,  */
 
-/* line 164, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 164,  */
 
-/* line 168, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 168,  */
 
-/* line 181, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 181,  */
 .section-padding {
     padding-top: 120px;
     padding-bottom: 120px;
 }
 
-/* line 185, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 185,  */
 
-/* line 189, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 189,  */
 
 @media (max-width: 767px) {
-    /* line 189, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 189,  */
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-    /* line 189, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 189,  */
 }
 
 /* owl-carousel button style */
-/* line 201, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 201,  */
 
-/* line 220, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 220,  */
 
-/* line 223, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 223,  */
 
-/* line 230, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 230,  */
 
-/* line 240, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 240,  */
 
-/* line 243, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 243,  */
 
-/* line 253, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 253,  */
 .btn {
     background: #ff2143;
     padding: 27px 44px;
@@ -347,7 +329,7 @@ li {
     margin: 0;
 }
 
-/* line 279, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 279,  */
 .btn::before {
     content: "";
     position: absolute;
@@ -366,47 +348,47 @@ li {
     border-radius: 0;
 }
 
-/* line 298, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 298,  */
 .btn:hover::before {
     transform: scaleX(1);
     color: #000000 !important;
     z-index: -1;
 }
 
-/* line 303, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 303,  */
 a:hover {
     color: #000;
 }
 
-/* line 306, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 306,  */
 .btn.focus,
 .btn:focus {
     outline: 0;
     box-shadow: none;
 }
 
-/* line 310, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 310,  */
 
-/* line 313, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 313,  */
 .btn-black {
     background: #0b1416;
 }
 
-/* line 316, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 316,  */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 316, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 316,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 316, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 316,  */
 }
 
 @media (max-width: 575px) {
-    /* line 316, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 316,  */
 }
 
-/* line 330, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 330,  */
 .submit-btn {
     width: 100%;
     background: #ff2143;
@@ -420,19 +402,19 @@ a:hover {
     border: 0;
 }
 
-/* line 342, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 342,  */
 .hero-btn {
     padding: 30px 38px;
 }
 
-/* line 345, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 345,  */
 hero-btn {
     padding: 30px 38px;
 }
 
 @media (max-width: 575px) {
 
-    /* line 348, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 348,  */
     .btn.btn-black.f-right {
         float: left;
         margin-top: 20px;
@@ -441,30 +423,30 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 348, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 348,  */
     .btn.btn-black.f-right {
         float: left;
         margin-top: 20px;
     }
 }
 
-/* line 360, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 360,  */
 
-/* line 373, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 373,  */
 
 @media (max-width: 575px) {
-    /* line 373, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 373,  */
 }
 
-/* line 397, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 397,  */
 
-/* line 416, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 416,  */
 
 /* button style */
-/* line 427, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 427,  */
 
 /* scrollUp */
-/* line 431, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 431,  */
 #back-top {
     background: #14435c;
     height: 50px;
@@ -484,22 +466,22 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 431, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 431,  */
     #back-top {
         right: 16px;
     }
 }
 
-/* line 449, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 449,  */
 #back-top a i {
     display: block;
     line-height: 50px;
 }
 
-/* line 456, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 456,  */
 
 /* Sticky*/
-/* line 461, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 461,  */
 .sticky-bar {
     left: 0;
     margin: auto;
@@ -518,709 +500,186 @@ hero-btn {
 /* Sticky end */
 /*--- Margin & Padding --*/
 /*-- Margin Top --*/
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 .mt-10 {
     margin-top: 10px;
 }
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 .mt-30 {
     margin-top: 30px;
 }
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 .mt-40 {
     margin-top: 40px;
 }
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
-/* line 486, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 486,  */
 
 /*-- Margin Bottom --*/
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 .mb-5 {
     margin-bottom: 5px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 .mb-20 {
     margin-bottom: 20px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 .mb-30 {
     margin-bottom: 30px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 .mb-50 {
     margin-bottom: 50px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 .mb-65 {
     margin-bottom: 65px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 491,  */
 .mb-70 {
     margin-bottom: 70px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .mb-100 {
     margin-bottom: 100px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Margin Left --*/
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 495, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Margin Right --*/
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Padding Top --*/
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .pt-100 {
     padding-top: 100px;
 }
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 505,  */
 .pt-150 {
     padding-top: 150px;
 }
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 505, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 507, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Padding Bottom --*/
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .pb-40 {
     padding-bottom: 40px;
 }
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .pb-100 {
     padding-bottom: 100px;
 }
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .pb-120 {
     padding-bottom: 120px;
 }
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .pb-140 {
     padding-bottom: 140px;
 }
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 512, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Padding Left --*/
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 517, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Padding Right --*/
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* line 522, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/*-- Some Animated CSS -- */
-/* bounce-animate */
-/* line 533, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
-
-/* heartbeat */
-/* line 563, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 
 @-webkit-keyframes heartbeat {
     to {
@@ -1230,7 +689,7 @@ hero-btn {
 }
 
 /* rotateme */
-/* line 575, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 575,  */
 
 @keyframes rotateme {
     from {
@@ -1255,7 +714,7 @@ hero-btn {
 }
 
 /* 20. preloader */
-/* line 607, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 607,  */
 .preloader {
     background-color: #f7f7f7;
     width: 100%;
@@ -1272,7 +731,7 @@ hero-btn {
     margin: 0 auto;
 }
 
-/* line 623, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 623,  */
 .preloader .preloader-circle {
     width: 100px;
     height: 100px;
@@ -1295,9 +754,9 @@ hero-btn {
     transition: .6s;
 }
 
-/* line 645, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 645,  */
 
-/* line 648, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 648,  */
 .preloader .preloader-img {
     position: absolute;
     top: 50%;
@@ -1316,12 +775,12 @@ hero-btn {
     transition: .6s;
 }
 
-/* line 666, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 666,  */
 .preloader .preloader-img img {
     max-width: 55px;
 }
 
-/* line 669, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 669,  */
 .preloader .pere-text strong {
     font-weight: 800;
     color: #dca73a;
@@ -1347,61 +806,61 @@ hero-btn {
 }
 
 /*-- Section Padding -- */
-/* line 713, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 713,  */
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
-    /* line 713, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 713,  */
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 713, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 713,  */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 713, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 713,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 713, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 713,  */
 }
 
 @media (max-width: 575px) {
-    /* line 713, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 713,  */
 }
 
-/* line 738, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 738,  */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 738, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 738,  */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 738, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 738,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 738, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 738,  */
 }
 
 @media (max-width: 575px) {
-    /* line 738, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 738,  */
 }
 
-/* line 753, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 753,  */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 753, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 753,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 753, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 753,  */
 }
 
 @media (max-width: 575px) {
-    /* line 753, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 753,  */
 }
 
-/* line 765, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 765,  */
 .testimonial-padding {
     padding-top: 148px;
     padding-bottom: 200px;
@@ -1409,7 +868,7 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 765, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 765,  */
     .testimonial-padding {
         padding-top: 148px;
         padding-bottom: 200px;
@@ -1418,7 +877,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 765, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 765,  */
     .testimonial-padding {
         padding-top: 148px;
         padding-bottom: 200px;
@@ -1427,7 +886,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 765, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 765,  */
     .testimonial-padding {
         padding-top: 148px;
         padding-bottom: 200px;
@@ -1436,14 +895,14 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 765, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 765,  */
     .testimonial-padding {
         padding-top: 148px;
         padding-bottom: 200px;
     }
 }
 
-/* line 785, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 785,  */
 .w-padding2 {
     padding-top: 90px;
     padding-bottom: 90px;
@@ -1451,7 +910,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 785, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 785,  */
     .w-padding2 {
         padding-top: 70px;
         padding-bottom: 70px;
@@ -1460,14 +919,14 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 785, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 785,  */
     .w-padding2 {
         padding-top: 70px;
         padding-bottom: 70px;
     }
 }
 
-/* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 797,  */
 .section-padding30 {
     padding-top: 195px;
     padding-bottom: 170px;
@@ -1475,7 +934,7 @@ hero-btn {
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
 
-    /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 797,  */
     .section-padding30 {
         padding-top: 195px;
         padding-bottom: 170px;
@@ -1484,7 +943,7 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 797,  */
     .section-padding30 {
         padding-top: 150px;
         padding-bottom: 110px;
@@ -1493,7 +952,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 797,  */
     .section-padding30 {
         padding-top: 100px;
         padding-bottom: 70px;
@@ -1502,7 +961,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 797,  */
     .section-padding30 {
         padding-top: 65px;
         padding-bottom: 30px;
@@ -1511,7 +970,7 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 797, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 797,  */
     .section-padding30 {
         padding-top: 65px;
         padding-bottom: 30px;
@@ -1520,7 +979,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 822, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 822,  */
     .brand-area {
         padding-top: 70px;
         padding-bottom: 70px;
@@ -1529,21 +988,21 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 822, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 822,  */
     .brand-area {
         padding-top: 50px;
         padding-bottom: 50px;
     }
 }
 
-/* line 832, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 832,  */
 .padding-bottom {
     padding-bottom: 190px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 832, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 832,  */
     .padding-bottom {
         padding-bottom: 100px;
     }
@@ -1551,7 +1010,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 832, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 832,  */
     .padding-bottom {
         padding-bottom: 70px;
     }
@@ -1559,7 +1018,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 832, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 832,  */
     .padding-bottom {
         padding-bottom: 70px;
     }
@@ -1567,49 +1026,49 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 832, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 832,  */
     .padding-bottom {
         padding-bottom: 70px;
     }
 }
 
-/* line 847, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 847,  */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 847, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 847,  */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 847, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 847,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 847, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 847,  */
 }
 
 @media (max-width: 575px) {
-    /* line 847, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 847,  */
 }
 
-/* line 867, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 867,  */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 867, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 867,  */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 867, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 867,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 867, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 867,  */
 }
 
 @media (max-width: 575px) {
-    /* line 867, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 867,  */
 }
 
-/* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 889,  */
 .section-padding3 {
     padding-top: 195px;
     padding-bottom: 100px;
@@ -1617,7 +1076,7 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 889,  */
     .section-padding3 {
         padding-top: 195px;
         padding-bottom: 100px;
@@ -1626,7 +1085,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 889,  */
     .section-padding3 {
         padding-top: 95px;
         padding-bottom: 0px;
@@ -1635,7 +1094,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 889,  */
     .section-padding3 {
         padding-top: 60px;
         padding-bottom: 0;
@@ -1644,14 +1103,14 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 889,  */
     .section-padding3 {
         padding-top: 60px;
         padding-bottom: 0;
     }
 }
 
-/* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 910,  */
 .footer-padding {
     padding-top: 143px;
     padding-bottom: 80px;
@@ -1659,7 +1118,7 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 910,  */
     .footer-padding {
         padding-top: 143px;
         padding-bottom: 80px;
@@ -1668,7 +1127,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 910,  */
     .footer-padding {
         padding-top: 100px;
         padding-bottom: 50px;
@@ -1677,7 +1136,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 910,  */
     .footer-padding {
         padding-top: 80px;
         padding-bottom: 0px;
@@ -1686,7 +1145,7 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 910,  */
     .footer-padding {
         padding-top: 80px;
         padding-bottom: 0px;
@@ -1695,7 +1154,7 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 933, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 933,  */
     .section-tittle {
         margin-bottom: 50px;
     }
@@ -1703,13 +1162,13 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 933, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 933,  */
     .section-tittle {
         margin-bottom: 50px;
     }
 }
 
-/* line 940, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 940,  */
 .section-tittle span {
     font-size: 18px;
     font-family: "Roboto", sans-serif;
@@ -1724,13 +1183,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 940, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 940,  */
     .section-tittle span {
         font-size: 14px;
     }
 }
 
-/* line 953, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 953,  */
 .section-tittle span::before {
     position: absolute;
     content: "";
@@ -1743,7 +1202,7 @@ hero-btn {
     transform: translateY(-50%);
 }
 
-/* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 965,  */
 .section-tittle h2 {
     font-size: 50px;
     display: block;
@@ -1753,7 +1212,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 965,  */
     .section-tittle h2 {
         font-size: 31px;
     }
@@ -1761,54 +1220,53 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 965,  */
     .section-tittle h2 {
         font-size: 31px;
     }
 }
 
-/* line 979, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 979,  */
 .section-tittle2 span {
     color: #cecece;
 }
 
-/* line 981, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 981,  */
 .section-tittle2 span::before {
     background: #fff;
 }
 
-/* line 985, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 985,  */
 .section-tittle2 h2 {
     color: #fff;
 }
 
 @media (max-width: 575px) {
 
-    /* line 985, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 985,  */
     .section-tittle2 h2 {
         font-size: 27px;
     }
 }
 
-/* line 996, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+/* line 996,  */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 999,  */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 999,  */
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 999,  */
 }
 
 @media (max-width: 575px) {
-    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    /* line 999,  */
 }
 
-/* line 1021, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .section-bg {
     background-size: cover !important;
     background-color: #292727;
@@ -1816,37 +1274,9 @@ hero-btn {
     background-position: center center !important;
 }
 
-/*-------------   Color Variable  --------------*/
-/* line 34, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/*-------------Color include--------------*/
-/*-- Background color---*/
-/* line 74, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 78, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 84, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 87, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 90, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 93, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/*--- color------*/
-/* line 99, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 102, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
-
-/* line 105, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
     .header-area .header-bottom {
         padding: 17px 0px;
     }
@@ -1854,7 +1284,6 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
     .header-area .header-bottom {
         padding: 17px 0px;
     }
@@ -1862,7 +1291,7 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 3, */
     .header-area .header-bottom {
         padding: 17px 0px;
     }
@@ -1870,7 +1299,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 19, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 19, */
     .header-area {
         box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     }
@@ -1878,7 +1307,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 19, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 19, */
     .header-area {
         box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     }
@@ -1886,19 +1315,19 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 19, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 19, */
     .header-area {
         box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     }
 }
 
-/* line 30, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 30, */
 .header-area .header-top {
     background: #182231;
     padding: 10px 0px;
 }
 
-/* line 36, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 36, */
 .header-area .header-top .header-info-left ul li {
     color: #fff;
     display: inline-block;
@@ -1911,35 +1340,35 @@ hero-btn {
     text-transform: uppercase;
 }
 
-/* line 44, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 44, */
 .header-area .header-top .header-info-left ul li:last-child {
     margin-right: 0px;
 }
 
-/* line 47, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 47, */
 .header-area .header-top .header-info-left ul li i {
     margin-right: 8px;
     color: #e94d65;
 }
 
-/* line 56, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 56, */
 .header-area .header-top .header-info-right .header-social li {
     display: inline-block;
 }
 
-/* line 58, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 58, */
 .header-area .header-top .header-info-right .header-social li a {
     color: #fff;
     font-size: 16px;
     padding-left: 25px;
 }
 
-/* line 62, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 62, */
 .header-area .header-top .header-info-right .header-social li a:hover {
     color: #14435c;
 }
 
-/* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 73, */
 .main-header {
     position: relative;
     z-index: 3;
@@ -1947,20 +1376,20 @@ hero-btn {
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
 
-    /* line 76, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 76, */
     .main-header .main-menu {
         margin-right: 30px;
     }
 }
 
-/* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 81, */
 .main-header .main-menu ul li {
     display: inline-block;
     position: relative;
     z-index: 1;
 }
 
-/* line 85, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 85, */
 .main-header .main-menu ul li a {
     color: #0d2d3e;
     font-weight: 500;
@@ -1977,23 +1406,23 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 85, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 85, */
     .main-header .main-menu ul li a {
         padding: 39px 14px;
     }
 }
 
-/* line 99, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 99, */
 .main-header .main-menu ul li:hover>a {
     color: #14435c;
 }
 
-/* line 104, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 104, */
 .main-header .main-menu ul li:last-child a {
     padding-right: 0;
 }
 
-/* line 109, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 109, */
 .main-header .main-menu ul ul.submenu {
     position: absolute;
     width: 170px;
@@ -2011,35 +1440,35 @@ hero-btn {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 121, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 121, */
 .main-header .main-menu ul ul.submenu>li {
     margin-left: 7px;
     display: block;
 }
 
-/* line 124, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 124, */
 .main-header .main-menu ul ul.submenu>li>a {
     padding: 6px 10px !important;
     font-size: 15px;
     color: #fdfdfd;
 }
 
-/* line 128, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 128, */
 .main-header .main-menu ul ul.submenu>li>a:hover {
     background: none;
     padding-left: 13px !important;
 }
 
-/* line 143, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 143, */
 .main-header ul>li:hover>ul.submenu {
     visibility: visible;
     opacity: 1;
     top: 100%;
 }
 
-/* line 149, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 149, */
 
-/* line 163, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 163, */
 .header-area .header-top .header-info-right .header-social a i {
     -webkit-transition: all 0.4s ease-out 0s;
     -moz-transition: all 0.4s ease-out 0s;
@@ -2053,7 +1482,7 @@ hero-btn {
     -o-transform: rotateY(0deg);
 }
 
-/* line 172, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 172, */
 .header-area .header-top .header-info-right .header-social a:hover i {
     color: #ff2143;
     transform: rotateY(180deg);
@@ -2063,19 +1492,19 @@ hero-btn {
     -o-transform: rotateY(180deg);
 }
 
-/* line 190, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 190, */
 .header-area .header-sticky.sticky-bar {
     background: #fce4e4;
 }
 
-/* line 195, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 195, */
 .header-area .header-sticky.sticky-bar .main-menu nav>ul>li>a {
     padding: 25px 20px !important;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 190, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 190, */
     .header-area .header-sticky.sticky-bar {
         padding: 15px 0px;
     }
@@ -2083,7 +1512,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 190, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 190, */
     .header-area .header-sticky.sticky-bar {
         padding: 15px 0px;
     }
@@ -2091,13 +1520,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 190, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+    /* line 190, */
     .header-area .header-sticky.sticky-bar {
         padding: 15px 0px;
     }
 }
 
-/* line 218, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 218, */
 .mobile_menu {
     position: absolute;
     right: 0px;
@@ -2105,28 +1534,28 @@ hero-btn {
     z-index: 99;
 }
 
-/* line 223, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 223, */
 
-/* line 226, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 226, */
 
-/* line 229, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 229, */
 
-/* line 233, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 233, */
 
-/* line 236, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 236, */
 
-/* line 240, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 240, */
 
-/* line 245, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
+/* line 245, */
 
-/* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 1,  */
 .slider-height {
     height: 900px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 1,  */
     .slider-height {
         height: 700px;
     }
@@ -2134,7 +1563,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 1,  */
     .slider-height {
         height: 650px;
     }
@@ -2142,7 +1571,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 1,  */
     .slider-height {
         height: 500px;
     }
@@ -2150,13 +1579,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 1,  */
     .slider-height {
         height: 500px;
     }
 }
 
-/* line 18, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 18,  */
 .slider-height2 {
     height: 450px;
     background-size: cover;
@@ -2164,7 +1593,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 18, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 18,  */
     .slider-height2 {
         height: 350px;
     }
@@ -2172,7 +1601,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 18, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 18,  */
     .slider-height2 {
         height: 260px;
     }
@@ -2180,20 +1609,20 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 18, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 18,  */
     .slider-height2 {
         height: 260px;
     }
 }
 
-/* line 31, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 31,  */
 .slider-area2 {
     background-image: url(../img/hero/hero2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-/* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 37,  */
 .slider-area {
     margin-top: -1px;
     background-image: url(../img/hero/h1_hero.jpg);
@@ -2202,20 +1631,20 @@ hero-btn {
     background-size: cover;
 }
 
-/* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 43,  */
 .slider-area .hero__caption {
     overflow: hidden;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
 
-    /* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 43,  */
     .slider-area .hero__caption {
         padding-left: 100px;
     }
 }
 
-/* line 48, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 48,  */
 .slider-area .hero__caption span {
     font-size: 18px;
     font-family: "Roboto", sans-serif;
@@ -2230,13 +1659,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 48, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 48,  */
     .slider-area .hero__caption span {
         font-size: 13px;
     }
 }
 
-/* line 61, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 61,  */
 .slider-area .hero__caption span::before {
     position: absolute;
     content: "";
@@ -2249,7 +1678,7 @@ hero-btn {
     transform: translateY(-50%);
 }
 
-/* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 73,  */
 .slider-area .hero__caption h1 {
     font-size: 85px;
     font-weight: 800;
@@ -2262,15 +1691,15 @@ hero-btn {
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
 
-    /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 73,  */
     .slider-area .hero__caption h1 {
-        font-size: 71px;
+        font-size: 50px;
     }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 73,  */
     .slider-area .hero__caption h1 {
         font-size: 60px;
         line-height: 1.2;
@@ -2279,7 +1708,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 73,  */
     .slider-area .hero__caption h1 {
         font-size: 50px;
         line-height: 1.2;
@@ -2288,7 +1717,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 73,  */
     .slider-area .hero__caption h1 {
         font-size: 35px;
         line-height: 1.2;
@@ -2297,32 +1726,32 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 73,  */
     .slider-area .hero__caption h1 {
         font-size: 29px;
         line-height: 1.2;
     }
 }
 
-/* line 101, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 101,  */
 .slider-area .hero__caption p {
-    font-size: 24px;
-    color: #000000;
+    font-size: 30px;
+    color: white;
     font-family: "Roboto", sans-serif;
-    margin-bottom: 39px;
+    margin-bottom: 35px;
     margin-bottom: 7px;
     margin-bottom: 50px;
 }
 
 @media (max-width: 575px) {
 
-    /* line 101, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 101,  */
     .slider-area .hero__caption p {
         margin-bottom: 30px;
         font-size: 14px;
     }
 
-    /* line 111, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 111,  */
     .slider-area .hero__caption p br {
         display: none;
     }
@@ -2330,7 +1759,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 116, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 116,  */
     .slider-area .hero__caption p br {
         display: none;
     }
@@ -2338,23 +1767,23 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 121, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 121,  */
     .slider-area .hero__caption p br {
         display: none;
     }
 }
 
-/* line 130, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 130,  */
 
-/* line 133, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 133,  */
 
-/* line 147, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 147,  */
 .hero-overly2 {
     position: relative;
     z-index: 1;
 }
 
-/* line 150, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 150,  */
 .hero-overly2::before {
     position: absolute;
     content: "";
@@ -2369,9 +1798,9 @@ hero-btn {
     background-repeat: no-repeat;
 }
 
-/* line 166, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 166,  */
 
-/* line 177, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 177,  */
 .slider-area2 .hero-cap h2 {
     color: #fff;
     font-size: 60px;
@@ -2382,7 +1811,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 177, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 177,  */
     .slider-area2 .hero-cap h2 {
         font-size: 50px;
     }
@@ -2390,19 +1819,19 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 177, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 177,  */
     .slider-area2 .hero-cap h2 {
         font-size: 35px;
     }
 }
 
-/* line 190, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 190,  */
 
-/* line 195, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 195,  */
 
-/* line 201, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 201,  */
 
-/* line 212, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 212,  */
 .slider-active button.slick-arrow {
     position: absolute;
     top: 50%;
@@ -2429,7 +1858,7 @@ hero-btn {
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
 
-    /* line 212, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 212,  */
     .slider-active button.slick-arrow {
         left: 15px;
     }
@@ -2437,7 +1866,7 @@ hero-btn {
 
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
 
-    /* line 212, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 212,  */
     .slider-active button.slick-arrow {
         left: 20px;
     }
@@ -2445,14 +1874,14 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 212, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 212,  */
     .slider-active button.slick-arrow {
         right: 130px;
         left: auto;
     }
 }
 
-/* line 243, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 243,  */
 .slider-active button.slick-arrow i {
     font-size: 20px;
     line-height: 60px;
@@ -2464,7 +1893,7 @@ hero-btn {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 250, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 250,  */
 .slider-active button.slick-next {
     left: auto;
     right: 100px;
@@ -2472,47 +1901,47 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 250, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 250,  */
     .slider-active button.slick-next {
         right: 50px;
     }
 }
 
-/* line 258, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 258,  */
 .slider-active button.slick-next {
     border: 1px solid #1b4962;
 }
 
-/* line 260, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 260,  */
 .slider-active button.slick-next i {
     color: #1b4962;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
 
-    /* line 258, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+    /* line 258,  */
     .slider-active button.slick-next {
         right: 20px;
     }
 }
 
-/* line 267, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 267,  */
 .slider-active button:hover {
     border: 1px solid #1b4962;
 }
 
-/* line 269, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
+/* line 269,  */
 .slider-active button:hover i {
     color: #1b4962;
 }
 
-/* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 1,  */
 .categories-area {
     /* background: #f7f7f7; */
     background-image: url("  https: //wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700444892.jpg");
 }
 
-/* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 3,  */
 .categories-area .single-cat {
     border: 9px solid transparent;
     padding: 30px 22px;
@@ -2528,7 +1957,7 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+    /* line 3,  */
     .categories-area .single-cat {
         padding: 30px 22px;
     }
@@ -2536,19 +1965,19 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+    /* line 3,  */
     .categories-area .single-cat {
         padding: 30px 18px;
     }
 }
 
-/* line 16, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 16,  */
 .categories-area .single-cat::before {
     position: absolute;
     content: "";
     width: 100%;
     height: 0;
-    background: #ff2143;
+    background: #f56c7f;
     -webkit-transition: all 0.4s ease-out 0s;
     -moz-transition: all 0.4s ease-out 0s;
     -ms-transition: all 0.4s ease-out 0s;
@@ -2560,7 +1989,7 @@ hero-btn {
     border: 9px solid #fff;
 }
 
-/* line 29, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 29,  */
 .categories-area .single-cat .cat-icon span {
     color: #eb566c;
     font-size: 65px;
@@ -2568,7 +1997,7 @@ hero-btn {
     display: block;
 }
 
-/* line 38, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 38,  */
 .categories-area .single-cat .cat-cap h5>a {
     font-size: 24px;
     font-weight: 600;
@@ -2584,7 +2013,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 38, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+    /* line 38,  */
     .categories-area .single-cat .cat-cap h5>a {
         font-size: 21px;
     }
@@ -2592,13 +2021,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 38, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+    /* line 38,  */
     .categories-area .single-cat .cat-cap h5>a {
         font-size: 23px;
     }
 }
 
-/* line 53, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 53,  */
 .categories-area .single-cat .cat-cap p {
     margin-bottom: 36px;
     color: #57667e;
@@ -2612,13 +2041,13 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 53, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+    /* line 53,  */
     .categories-area .single-cat .cat-cap p {
         font-size: 15px;
     }
 }
 
-/* line 63, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 63,  */
 .categories-area .single-cat .cat-cap a {
     color: #1c165c;
     font-size: 16px;
@@ -2630,32 +2059,32 @@ hero-btn {
     transition: all 0.2s ease-out 0s;
 }
 
-/* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 73,  */
 .categories-area .single-cat:hover {
     border: 1px solid transparent;
 }
 
-/* line 77, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 77,  */
 .categories-area .single-cat:hover::before {
     height: 100%;
 }
 
-/* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 81,  */
 .categories-area .single-cat:hover .cat-icon span {
     color: #fff;
 }
 
-/* line 86, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 86,  */
 .categories-area .single-cat:hover .cat-cap h5 {
     color: #fff;
 }
 
-/* line 89, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 89,  */
 .categories-area .single-cat:hover .cat-cap p {
     color: #fff;
 }
 
-/* line 92, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_categories.scss */
+/* line 92,  */
 .categories-area .single-cat:hover .cat-cap a {
     color: #fff;
 }
@@ -2730,7 +2159,7 @@ hero-btn {
 
 /* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_count_down.scss */
 .count-down-area .single-counter {
-    background: #fff;
+    background:#ffe4e4;
     padding: 44px 10px 44px 9px;
     border: 1px solid #cfcfcf;
     border-radius: 50px;
@@ -2858,8 +2287,8 @@ hero-btn {
     font-family: "Roboto", sans-serif;
     position: relative;
     color: #fd0000;
-    font-weight: 500;
-    font-size: 25px;
+    font-weight: 400;
+    font-size: 22px;
     display: block;
     padding-left: 60px;
 }
@@ -3065,20 +2494,20 @@ hero-btn {
     font-size: 14px;
 }
 
-/* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 1,  */
 .testimonial-area {
     background: #121212;
     position: relative;
 }
 
-/* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 4,  */
 .testimonial-area .testimonial-caption {
     padding-left: 80px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 4,  */
     .testimonial-area .testimonial-caption {
         padding-left: 0px;
     }
@@ -3086,7 +2515,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 4,  */
     .testimonial-area .testimonial-caption {
         padding-left: 0px;
     }
@@ -3094,13 +2523,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 4, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 4,  */
     .testimonial-area .testimonial-caption {
         padding-left: 0px;
     }
 }
 
-/* line 16, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 16,  */
 .testimonial-area .testimonial-caption .testimonial-top-cap svg {
     margin-bottom: 50px;
     width: auto;
@@ -3109,7 +2538,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 16, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 16,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap svg {
         margin-bottom: 30px;
     }
@@ -3117,13 +2546,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 16, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 16,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap svg {
         margin-bottom: 30px;
     }
 }
 
-/* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 27,  */
 .testimonial-area .testimonial-caption .testimonial-top-cap p {
     line-height: 1.5;
     padding-right: 100px;
@@ -3135,7 +2564,7 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 27,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap p {
         font-size: 20px;
     }
@@ -3143,7 +2572,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 27,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap p {
         font-size: 20px;
         padding-right: 0px;
@@ -3152,7 +2581,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 27,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap p {
         font-size: 18px;
         padding-right: 0px;
@@ -3162,7 +2591,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 27,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap p {
         font-size: 18px;
         padding-right: 0px;
@@ -3172,7 +2601,7 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 27, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 27,  */
     .testimonial-area .testimonial-caption .testimonial-top-cap p {
         font-size: 15px;
         padding-right: 0px;
@@ -3180,12 +2609,12 @@ hero-btn {
     }
 }
 
-/* line 62, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 62,  */
 .testimonial-area .testimonial-caption .testimonial-founder .founder-text {
     margin-left: 20px;
 }
 
-/* line 64, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 64,  */
 .testimonial-area .testimonial-caption .testimonial-founder .founder-text span {
     color: #f04e3c;
     font-size: 30px;
@@ -3194,20 +2623,20 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 64, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+    /* line 64,  */
     .testimonial-area .testimonial-caption .testimonial-founder .founder-text span {
         font-size: 26px;
     }
 }
 
-/* line 72, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 72,  */
 .testimonial-area .testimonial-caption .testimonial-founder .founder-text p {
     color: #57667e;
     font-weight: 500;
     line-height: 1.5;
 }
 
-/* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 81,  */
 .testimonial-area button.slick-arrow {
     position: absolute;
     left: -60px;
@@ -3234,46 +2663,46 @@ hero-btn {
     border: 1px solid #616373;
 }
 
-/* line 101, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 101,  */
 .testimonial-area button.slick-arrow:hover {
     border: 1px solid #f04e3c;
     color: #f04e3c;
-}
+}   
 
-/* line 106, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 106,  */
 .testimonial-area button.slick-next {
     left: auto;
     right: -60px;
 }
 
-/* line 110, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 110,  */
 .testimonial-area button i {
     font-size: 13px;
     position: relative;
     top: -3px;
 }
 
-/* line 116, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_testimonial.scss */
+/* line 116,  */
 .testimonial-area .slick-initialized .slick-slide {
     outline: 0;
 }
 
-/* line 1, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 1,  */
 .footer-area {
     background: #11141b;
 }
 
-/* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 3,  */
 .footer-area .footer-top {
     border-bottom: 1px solid #233148;
 }
 
-/* line 6, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 6,  */
 .footer-area .footer-top .single-footer-caption .footer-logo {
     margin-bottom: 30px;
 }
 
-/* line 10, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 10,  */
 .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
     line-height: 1.8;
     margin-bottom: 35px;
@@ -3282,7 +2711,7 @@ hero-btn {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 10, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 10,  */
     .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
         padding-right: 0px;
     }
@@ -3290,7 +2719,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 10, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 10,  */
     .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
         padding-right: 0px;
     }
@@ -3298,7 +2727,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 10, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 10,  */
     .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
         padding-right: 0px;
     }
@@ -3306,13 +2735,13 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 10, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 10,  */
     .footer-area .footer-top .single-footer-caption .footer-pera .info1 {
         padding-right: 0px;
     }
 }
 
-/* line 29, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 29,  */
 .footer-area .footer-top .single-footer-caption .footer-number h4 {
     color: #ff0000;
     font-size: 30px;
@@ -3320,17 +2749,17 @@ hero-btn {
     text-transform: capitalize;
 }
 
-/* line 34, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 34,  */
 .footer-area .footer-top .single-footer-caption .footer-number h4 span {
     color: #fff;
 }
 
-/* line 38, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 38,  */
 .footer-area .footer-top .single-footer-caption .footer-number p {
     color: #bdbdbd;
 }
 
-/* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 43,  */
 .footer-area .footer-top .single-footer-caption .footer-tittle h4 {
     color: #fff;
     font-family: "Poppins", sans-serif;
@@ -3340,36 +2769,36 @@ hero-btn {
     text-transform: uppercase;
 }
 
-/* line 52, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 52,  */
 .footer-area .footer-top .single-footer-caption .footer-tittle ul li {
     color: #bdbdbd;
     margin-bottom: 15px;
     text-transform: capitalize;
 }
 
-/* line 56, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 56,  */
 .footer-area .footer-top .single-footer-caption .footer-tittle ul li a {
     color: #bdbdbd;
     font-weight: 300;
 }
 
-/* line 59, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 59,  */
 .footer-area .footer-top .single-footer-caption .footer-tittle ul li a:hover {
     color: #fff;
     padding-left: 5px;
 }
 
-/* line 67, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 67,  */
 .footer-area .footer-top .single-footer-caption .footer-form {
     margin-bottom: 30px;
 }
 
-/* line 69, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 69,  */
 .footer-area .footer-top .single-footer-caption .footer-form form {
     position: relative;
 }
 
-/* line 71, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 71,  */
 .footer-area .footer-top .single-footer-caption .footer-form form input {
     width: 100%;
     height: 43px;
@@ -3379,14 +2808,14 @@ hero-btn {
     color: #fff;
 }
 
-/* line 78, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 78,  */
 .footer-area .footer-top .single-footer-caption .footer-form form input::placeholder {
     color: #9fa6bd;
     font-weight: 300;
     font-size: 14px;
 }
 
-/* line 85, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 85,  */
 .footer-area .footer-top .single-footer-caption .footer-form form .form-icon button {
     position: absolute;
     top: 0px;
@@ -3402,24 +2831,24 @@ hero-btn {
     font-weight: 300;
 }
 
-/* line 102, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 102,  */
 .footer-area .footer-top .single-footer-caption .info.error {
     color: #ff0000;
 }
 
-/* line 105, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 105,  */
 
-/* line 107, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 107,  */
 
-/* line 114, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 114,  */
 
-/* line 122, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 122,  */
 .footer-area .footer-bottom {
     padding-bottom: 50px;
     padding-top: 30px;
 }
 
-/* line 127, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 127,  */
 .footer-area .footer-bottom .footer-copy-right p {
     color: #bdbdbd;
     font-weight: 300;
@@ -3428,24 +2857,24 @@ hero-btn {
     margin-bottom: 12px;
 }
 
-/* line 133, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 133,  */
 .footer-area .footer-bottom .footer-copy-right p i {
     color: #ff0000;
 }
 
-/* line 136, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 136,  */
 .footer-area .footer-bottom .footer-copy-right p a {
     color: #ff0000;
 }
 
-/* line 150, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 150,  */
 .footer-area .footer-social span {
     color: #fff;
     position: relative;
     margin-right: 57px;
 }
 
-/* line 155, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 155,  */
 .footer-area .footer-social span::before {
     position: absolute;
     content: "";
@@ -3459,7 +2888,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 149, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 149,  */
     .footer-area .footer-social {
         float: left;
         padding-top: 10px;
@@ -3468,7 +2897,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 149, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 149,  */
     .footer-area .footer-social {
         float: left;
         padding-top: 10px;
@@ -3477,14 +2906,14 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 149, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+    /* line 149,  */
     .footer-area .footer-social {
         float: left;
         padding-top: 10px;
     }
 }
 
-/* line 179, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 179,  */
 .footer-area .footer-social a {
     color: #bdbdbd;
     font-size: 14px;
@@ -3492,28 +2921,28 @@ hero-btn {
     margin-left: 16px;
 }
 
-/* line 184, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 184,  */
 .footer-area .footer-social a:first-child {
     margin-left: 0px;
 }
 
-/* line 187, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
+/* line 187,  */
 .footer-area .footer-social a:hover {
     color: #fff;
 }
 
-/* line 2, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_services.scss */
+/* line 2,  */
 
-/* line 10, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_services.scss */
+/* line 10,  */
 
-/* line 21, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_services.scss */
+/* line 21,  */
 
-/* line 3, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 3, */
 .home-blog-area {
     background: #f7f7f7;
 }
 
-/* line 5, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 5, */
 .home-blog-area .home-blog-single {
     -webkit-transition: all 0.4s ease-out 0s;
     -moz-transition: all 0.4s ease-out 0s;
@@ -3522,13 +2951,13 @@ hero-btn {
     transition: all 0.4s ease-out 0s;
 }
 
-/* line 8, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 8, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-img {
     overflow: hidden;
     position: relative;
 }
 
-/* line 11, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 11, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-img img {
     width: 100%;
     -webkit-transform: scale 1;
@@ -3537,7 +2966,7 @@ hero-btn {
     transition: all 0.5s ease-out 0s;
 }
 
-/* line 16, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 16, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-img ul {
     position: absolute;
     bottom: 0;
@@ -3546,13 +2975,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 16, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 16, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-img ul {
         width: 85%;
     }
 }
 
-/* line 23, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 23, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-img ul li {
     font-size: 14px;
     font-family: "Roboto", sans-serif;
@@ -3564,7 +2993,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 23, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 23, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-img ul li {
         padding: 20px 10px 20px 20px;
     }
@@ -3572,7 +3001,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 23, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 23, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-img ul li {
         padding: 20px 10px 20px 20px;
     }
@@ -3580,21 +3009,24 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 23, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 23, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-img ul li {
         padding: 20px 10px 20px 20px;
     }
 }
 
-/* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 43, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
-    background: #fff;
+    background: #ffd3d3;
+    border: 0px;
+    border-radius: 30px;
+
     padding: 30px 86px 36px 81px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
-    /* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 43, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
         padding: 37px 23px 37px 45px;
     }
@@ -3602,7 +3034,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 43, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
         padding: 30px 8px 31px 26px;
     }
@@ -3610,7 +3042,7 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 43, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
         padding: 30px 8px 31px 26px;
     }
@@ -3618,13 +3050,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 43, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap {
         padding: 30px 8px 31px 26px;
     }
 }
 
-/* line 59, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 59, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
     color: #191d34;
     font-size: 30px;
@@ -3634,14 +3066,14 @@ hero-btn {
     display: block;
 }
 
-/* line 66, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 66, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a:hover {
     color: #14435c;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 59, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 59, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
         font-size: 23px;
     }
@@ -3649,7 +3081,7 @@ hero-btn {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 
-    /* line 59, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 59, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
         font-size: 19px;
     }
@@ -3657,13 +3089,13 @@ hero-btn {
 
 @media (max-width: 575px) {
 
-    /* line 59, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 59, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
         font-size: 19px;
     }
 }
 
-/* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 81, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap p {
     color: #737980;
     font-size: 16px;
@@ -3672,13 +3104,13 @@ hero-btn {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 
-    /* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 81, */
     .home-blog-area .home-blog-single .blog-img-cap .blog-cap p {
         font-size: 14px;
     }
 }
 
-/* line 89, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 89, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap .more-btn {
     color: #ff2143;
     text-transform: capitalize;
@@ -3688,7 +3120,7 @@ hero-btn {
     padding-left: 50px;
 }
 
-/* line 96, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 96, */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap .more-btn::before {
     position: absolute;
     content: "";
@@ -3700,12 +3132,12 @@ hero-btn {
     background: #ff2143;
 }
 
-/* line 112, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 112, */
 .home-blog-single:hover {
     box-shadow: 0px 22px 57px 0px rgba(34, 41, 72, 0.05);
 }
 
-/* line 113, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 113, */
 .home-blog-single:hover .blog-img img {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -3714,16 +3146,16 @@ hero-btn {
 
 /* Start Blog Area css
 ============================================================================================ */
-/* line 127, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 127, */
 
-/* line 132, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 132, */
 .blog_area a {
     color: "Roboto", sans-serif !important;
     text-decoration: none;
     transition: .4s;
 }
 
-/* line 136, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 136, */
 .blog_area a:hover,
 .blog_area a :hover {
     background: -webkit-linear-gradient(131deg, #14435c 0%, #14435c 99%);
@@ -3733,165 +3165,165 @@ hero-btn {
     transition: .4s;
 }
 
-/* line 146, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 146, */
 
-/* line 150, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 150, */
 
-/* line 154, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 154, */
 
-/* line 158, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 158, */
 
-/* line 171, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 171, */
 
-/* line 178, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 178, */
 
-/* line 188, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 188, */
 
-/* line 196, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 196, */
 
-/* line 206, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 206, */
 
 @media (max-width: 1199px) {
-    /* line 196, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
-    /* line 220, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 196, */
+    /* line 220, */
 }
 
-/* line 226, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 226, */
 
 @media (max-width: 800px) {
-    /* line 146, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 146, */
 }
 
-/* line 234, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 234, */
 
-/* line 238, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 238, */
 
-/* line 243, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 243, */
 
 @media (max-width: 1199px) {
-    /* line 234, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 234, */
 }
 
-/* line 257, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 257, */
 
 @media (max-width: 1199px) {
-    /* line 265, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
-    /* line 271, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 265, */
+    /* line 271, */
 }
 
-/* line 279, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 279, */
 
-/* line 282, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 282, */
 
 @media (min-width: 992px) {
-    /* line 282, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 282, */
 }
 
-/* line 301, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 301, */
 
-/* line 307, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 307, */
 
-/* line 317, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 317, */
 
-/* line 322, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 322, */
 
 /* End Blog Area css
 ============================================================================================ */
 /* Latest Blog Area css
 ============================================================================================ */
-/* line 346, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 346, */
 
-/* line 350, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 350, */
 
-/* line 356, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 356, */
 
-/* line 369, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 369, */
 
 /* End Latest Blog Area css
 ============================================================================================ */
 /* Causes Area css
 ============================================================================================ */
-/* line 385, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 385, */
 
-/* line 389, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 389, */
 
-/* line 396, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 396, */
 
-/* line 407, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 407, */
 
-/* line 410, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 410, */
 
-/* line 413, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 413, */
 
-/* line 421, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 421, */
 
-/* line 429, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 429, */
 
-/* line 442, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 442, */
 
-/* line 445, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 445, */
 
-/* line 458, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 458, */
 
-/* line 468, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 468, */
 
-/* line 480, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 480, */
 
 /* End Causes Area css
 ============================================================================================ */
 /*================= latest_blog_area css =============*/
-/* line 496, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 496, */
 
-/* line 500, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 500, */
 
-/* line 503, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 503, */
 
-/* line 506, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 506, */
 
-/* line 511, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 511, */
 
-/* line 514, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 514, */
 
-/* line 525, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 525, */
 
-/* line 532, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 532, */
 
-/* line 539, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 539, */
 
-/* line 553, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 553, */
 
 /*========= blog_categorie_area css ===========*/
-/* line 560, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 560, */
 
 @media (min-width: 900px) {
-    /* line 560, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 560, */
 }
 
 @media (min-width: 1100px) {
-    /* line 560, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 560, */
 }
 
-/* line 576, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 576, */
 
-/* line 581, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 581, */
 
-/* line 585, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 585, */
 
-/* line 598, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 598, */
 
-/* line 616, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 616, */
 
-/* line 623, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 623, */
 
-/* line 632, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 632, */
 
 /*============ blog_left_sidebar css ==============*/
-/* line 647, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 647, */
 .blog_item {
     margin-bottom: 50px;
 }
 
-/* line 651, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 651, */
 .blog_details {
     padding: 30px 0 20px 10px;
     box-shadow: 0px 10px 20px 0px rgba(221, 221, 221, 0.3);
@@ -3899,28 +3331,28 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 651, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 651, */
     .blog_details {
         padding: 60px 30px 35px 35px;
     }
 }
 
-/* line 659, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 659, */
 .blog_details p {
     margin-bottom: 30px;
 }
 
-/* line 663, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 663, */
 .blog_details a {
     color: #242b5e;
 }
 
-/* line 666, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 666, */
 .blog_details a:hover {
     color: #ff2143;
 }
 
-/* line 671, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 671, */
 .blog_details h2 {
     font-size: 18px;
     font-weight: 600;
@@ -3929,44 +3361,44 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 671, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 671, */
     .blog_details h2 {
         font-size: 24px;
         margin-bottom: 15px;
     }
 }
 
-/* line 685, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 685, */
 .blog-info-link li {
     float: left;
     font-size: 14px;
 }
 
-/* line 689, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 689, */
 .blog-info-link li a {
     color: #999999;
 }
 
-/* line 693, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 693, */
 .blog-info-link li i,
 .blog-info-link li span {
     font-size: 13px;
     margin-right: 5px;
 }
 
-/* line 699, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 699, */
 .blog-info-link li::after {
     content: "|";
     padding-left: 10px;
     padding-right: 10px;
 }
 
-/* line 705, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 705, */
 .blog-info-link li:last-child::after {
     display: none;
 }
 
-/* line 710, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 710, */
 .blog-info-link::after {
     content: "";
     display: block;
@@ -3974,12 +3406,12 @@ hero-btn {
     display: table;
 }
 
-/* line 718, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 718, */
 .blog_item_img {
     position: relative;
 }
 
-/* line 721, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 721, */
 .blog_item_img .blog_item_date {
     position: absolute;
     bottom: -10px;
@@ -3993,7 +3425,7 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 721, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 721, */
     .blog_item_img .blog_item_date {
         bottom: -20px;
         left: 40px;
@@ -4001,7 +3433,7 @@ hero-btn {
     }
 }
 
-/* line 737, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 737, */
 .blog_item_img .blog_item_date h3 {
     font-size: 22px;
     font-weight: 600;
@@ -4012,13 +3444,13 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 737, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 737, */
     .blog_item_img .blog_item_date h3 {
         font-size: 30px;
     }
 }
 
-/* line 749, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 749, */
 .blog_item_img .blog_item_date p {
     font-size: 18px;
     margin-bottom: 0;
@@ -4027,19 +3459,19 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 749, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 749, */
     .blog_item_img .blog_item_date p {
         font-size: 18px;
     }
 }
 
-/* line 769, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 769, */
 .blog_right_sidebar .widget_title {
     font-size: 20px;
     margin-bottom: 40px;
 }
 
-/* line 774, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 774, */
 .blog_right_sidebar .widget_title::after {
     content: "";
     display: block;
@@ -4047,19 +3479,19 @@ hero-btn {
     border-bottom: 1px solid #f0e9ff;
 }
 
-/* line 782, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 782, */
 .blog_right_sidebar .single_sidebar_widget {
     background: #fbf9ff;
     padding: 30px;
     margin-bottom: 30px;
 }
 
-/* line 786, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 786, */
 .blog_right_sidebar .single_sidebar_widget .btn_1 {
     margin-top: 0px;
 }
 
-/* line 794, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 794, */
 .blog_right_sidebar .search_widget .form-control {
     height: 50px;
     border-color: #f0e9ff;
@@ -4070,19 +3502,19 @@ hero-btn {
     border-right: 0;
 }
 
-/* line 803, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 803, */
 .blog_right_sidebar .search_widget .form-control::placeholder {
     color: #999999;
 }
 
-/* line 807, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 807, */
 .blog_right_sidebar .search_widget .form-control:focus {
     border-color: #f0e9ff;
     outline: 0;
     box-shadow: none;
 }
 
-/* line 816, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 816, */
 .blog_right_sidebar .search_widget .input-group button {
     background: #14435c;
     border-left: 0;
@@ -4092,18 +3524,18 @@ hero-btn {
     cursor: pointer;
 }
 
-/* line 824, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 824, */
 .blog_right_sidebar .search_widget .input-group button i {
     color: #fff;
 }
 
-/* line 827, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 827, */
 .blog_right_sidebar .search_widget .input-group button span {
     font-size: 14px;
     color: #999999;
 }
 
-/* line 838, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 838, */
 .blog_right_sidebar .newsletter_widget .form-control {
     height: 50px;
     border-color: #f0e9ff;
@@ -4113,19 +3545,19 @@ hero-btn {
     border-radius: 0;
 }
 
-/* line 847, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 847, */
 .blog_right_sidebar .newsletter_widget .form-control::placeholder {
     color: #999999;
 }
 
-/* line 851, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 851, */
 .blog_right_sidebar .newsletter_widget .form-control:focus {
     border-color: #f0e9ff;
     outline: 0;
     box-shadow: none;
 }
 
-/* line 860, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 860, */
 .blog_right_sidebar .newsletter_widget .input-group button {
     background: #fff;
     border-left: 0;
@@ -4134,50 +3566,50 @@ hero-btn {
     border-left: 0;
 }
 
-/* line 867, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 867, */
 .blog_right_sidebar .newsletter_widget .input-group button i,
 .blog_right_sidebar .newsletter_widget .input-group button span {
     font-size: 14px;
     color: #fff;
 }
 
-/* line 880, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 880, */
 .blog_right_sidebar .post_category_widget .cat-list li {
     border-bottom: 1px solid #f0e9ff;
     transition: all 0.3s ease 0s;
     padding-bottom: 12px;
 }
 
-/* line 885, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 885, */
 .blog_right_sidebar .post_category_widget .cat-list li:last-child {
     border-bottom: 0;
 }
 
-/* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 889, */
 .blog_right_sidebar .post_category_widget .cat-list li a {
     font-size: 14px;
     line-height: 20px;
     color: #888888;
 }
 
-/* line 894, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 894, */
 .blog_right_sidebar .post_category_widget .cat-list li a p {
     margin-bottom: 0px;
 }
 
-/* line 899, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 899, */
 .blog_right_sidebar .post_category_widget .cat-list li+li {
     padding-top: 15px;
 }
 
-/* line 916, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 916, */
 .blog_right_sidebar .popular_post_widget .post_item .media-body {
     justify-content: center;
     align-self: center;
     padding-left: 20px;
 }
 
-/* line 921, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 921, */
 .blog_right_sidebar .popular_post_widget .post_item .media-body h3 {
     font-size: 16px;
     line-height: 20px;
@@ -4185,29 +3617,29 @@ hero-btn {
     transition: all 0.3s linear;
 }
 
-/* line 932, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 932, */
 .blog_right_sidebar .popular_post_widget .post_item .media-body a:hover {
     color: #fff;
 }
 
-/* line 938, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 938, */
 .blog_right_sidebar .popular_post_widget .post_item .media-body p {
     font-size: 14px;
     line-height: 21px;
     margin-bottom: 0px;
 }
 
-/* line 945, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 945, */
 .blog_right_sidebar .popular_post_widget .post_item+.post_item {
     margin-top: 20px;
 }
 
-/* line 953, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 953, */
 .blog_right_sidebar .tag_cloud_widget ul li {
     display: inline-block;
 }
 
-/* line 956, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 956, */
 .blog_right_sidebar .tag_cloud_widget ul li a {
     display: inline-block;
     border: 1px solid #eeeeee;
@@ -4220,7 +3652,7 @@ hero-btn {
     font-size: 13px;
 }
 
-/* line 967, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 967, */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
     background: #14435c;
     color: #fff !important;
@@ -4230,14 +3662,14 @@ hero-btn {
     transition: 0.5s;
 }
 
-/* line 982, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 982, */
 .blog_right_sidebar .instagram_feeds .instagram_row {
     display: flex;
     margin-right: -6px;
     margin-left: -6px;
 }
 
-/* line 988, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 988, */
 .blog_right_sidebar .instagram_feeds .instagram_row li {
     width: 33.33%;
     float: left;
@@ -4246,7 +3678,7 @@ hero-btn {
     margin-bottom: 15px;
 }
 
-/* line 1088, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1088, */
 .blog_right_sidebar .br {
     width: 100%;
     height: 1px;
@@ -4254,12 +3686,12 @@ hero-btn {
     margin: 30px 0px;
 }
 
-/* line 1109, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1109, */
 .blog-pagination {
     margin-top: 80px;
 }
 
-/* line 1113, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1113, */
 .blog-pagination .page-link {
     font-size: 14px;
     position: relative;
@@ -4276,49 +3708,49 @@ hero-btn {
     margin-right: 10px;
 }
 
-/* line 1130, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1130, */
 .blog-pagination .page-link i,
 .blog-pagination .page-link span {
     font-size: 13px;
 }
 
-/* line 1142, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1142, */
 .blog-pagination .page-item.active .page-link {
     background-color: #fbf9ff;
     border-color: #f0e9ff;
     color: #888888;
 }
 
-/* line 1149, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1149, */
 .blog-pagination .page-item:last-child .page-link {
     margin-right: 0;
 }
 
 /*============ Start Blog Single Styles  =============*/
-/* line 1174, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1174, */
 .single-post-area .blog_details {
     box-shadow: none;
     padding: 0;
 }
 
-/* line 1179, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1179, */
 
-/* line 1182, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1182, */
 
-/* line 1186, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1186, */
 
-/* line 1199, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1199, */
 .single-post-area .blog_details {
     padding-top: 26px;
 }
 
-/* line 1202, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1202, */
 .single-post-area .blog_details p {
     margin-bottom: 20px;
     font-size: 15px;
 }
 
-/* line 1212, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1212, */
 .single-post-area .quote-wrapper {
     background: rgba(130, 139, 178, 0.1);
     padding: 15px;
@@ -4331,13 +3763,13 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 1212, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1212, */
     .single-post-area .quote-wrapper {
         padding: 30px;
     }
 }
 
-/* line 1226, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1226, */
 .single-post-area .quotes {
     background: #fff;
     padding: 15px 15px 15px 20px;
@@ -4346,79 +3778,79 @@ hero-btn {
 
 @media (min-width: 768px) {
 
-    /* line 1226, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1226, */
     .single-post-area .quotes {
         padding: 25px 25px 25px 30px;
     }
 }
 
-/* line 1236, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1236, */
 .single-post-area .arrow {
     position: absolute;
 }
 
-/* line 1239, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1239, */
 .single-post-area .arrow .lnr {
     font-size: 20px;
     font-weight: 600;
 }
 
-/* line 1246, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1246, */
 
-/* line 1251, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1251, */
 .single-post-area .navigation-top {
     padding-top: 15px;
     border-top: 1px solid #f0e9ff;
 }
 
-/* line 1255, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1255, */
 .single-post-area .navigation-top p {
     margin-bottom: 0;
 }
 
-/* line 1259, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1259, */
 .single-post-area .navigation-top .like-info {
     font-size: 14px;
 }
 
-/* line 1262, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1262, */
 .single-post-area .navigation-top .like-info i,
 .single-post-area .navigation-top .like-info span {
     font-size: 16px;
     margin-right: 5px;
 }
 
-/* line 1269, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1269, */
 .single-post-area .navigation-top .comment-count {
     font-size: 14px;
 }
 
-/* line 1272, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1272, */
 .single-post-area .navigation-top .comment-count i,
 .single-post-area .navigation-top .comment-count span {
     font-size: 16px;
     margin-right: 5px;
 }
 
-/* line 1281, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1281, */
 .single-post-area .navigation-top .social-icons li {
     display: inline-block;
     margin-right: 15px;
 }
 
-/* line 1285, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1285, */
 .single-post-area .navigation-top .social-icons li:last-child {
     margin: 0;
 }
 
-/* line 1289, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1289, */
 .single-post-area .navigation-top .social-icons li i,
 .single-post-area .navigation-top .social-icons li span {
     font-size: 14px;
     color: #999999;
 }
 
-/* line 1307, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1307, */
 .single-post-area .blog-author {
     padding: 40px 30px;
     background: #fbf9ff;
@@ -4427,13 +3859,13 @@ hero-btn {
 
 @media (max-width: 600px) {
 
-    /* line 1307, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1307, */
     .single-post-area .blog-author {
         padding: 20px 8px;
     }
 }
 
-/* line 1316, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1316, */
 .single-post-area .blog-author img {
     width: 90px;
     height: 90px;
@@ -4443,7 +3875,7 @@ hero-btn {
 
 @media (max-width: 600px) {
 
-    /* line 1316, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1316, */
     .single-post-area .blog-author img {
         margin-right: 15px;
         width: 45px;
@@ -4451,57 +3883,57 @@ hero-btn {
     }
 }
 
-/* line 1329, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1329, */
 .single-post-area .blog-author a {
     display: inline-block;
 }
 
-/* line 1333, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1333, */
 .single-post-area .blog-author a:hover {
     color: #ff2143;
 }
 
-/* line 1338, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1338, */
 .single-post-area .blog-author p {
     margin-bottom: 0;
     font-size: 15px;
 }
 
-/* line 1343, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1343, */
 .single-post-area .blog-author h4 {
     font-size: 16px;
 }
 
-/* line 1350, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1350, */
 .single-post-area .navigation-area {
     border-bottom: 1px solid #eee;
     padding-bottom: 30px;
     margin-top: 55px;
 }
 
-/* line 1355, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1355, */
 .single-post-area .navigation-area p {
     margin-bottom: 0px;
 }
 
-/* line 1359, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1359, */
 .single-post-area .navigation-area h4 {
     font-size: 18px;
     line-height: 25px;
 }
 
-/* line 1365, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1365, */
 .single-post-area .navigation-area .nav-left {
     text-align: left;
 }
 
-/* line 1368, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1368, */
 .single-post-area .navigation-area .nav-left .thumb {
     margin-right: 20px;
     background: #000;
 }
 
-/* line 1372, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1372, */
 .single-post-area .navigation-area .nav-left .thumb img {
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
@@ -4510,7 +3942,7 @@ hero-btn {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 1377, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1377, */
 .single-post-area .navigation-area .nav-left .lnr {
     margin-left: 20px;
     opacity: 0;
@@ -4521,36 +3953,36 @@ hero-btn {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 1384, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1384, */
 .single-post-area .navigation-area .nav-left:hover .lnr {
     opacity: 1;
 }
 
-/* line 1389, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1389, */
 .single-post-area .navigation-area .nav-left:hover .thumb img {
     opacity: .5;
 }
 
 @media (max-width: 767px) {
 
-    /* line 1365, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1365, */
     .single-post-area .navigation-area .nav-left {
         margin-bottom: 30px;
     }
 }
 
-/* line 1400, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1400, */
 .single-post-area .navigation-area .nav-right {
     text-align: right;
 }
 
-/* line 1403, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1403, */
 .single-post-area .navigation-area .nav-right .thumb {
     margin-left: 20px;
     background: #000;
 }
 
-/* line 1407, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1407, */
 .single-post-area .navigation-area .nav-right .thumb img {
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
@@ -4559,7 +3991,7 @@ hero-btn {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 1412, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1412, */
 .single-post-area .navigation-area .nav-right .lnr {
     margin-right: 20px;
     opacity: 0;
@@ -4570,21 +4002,21 @@ hero-btn {
     transition: all 0.3s ease-out 0s;
 }
 
-/* line 1419, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1419, */
 .single-post-area .navigation-area .nav-right:hover .lnr {
     opacity: 1;
 }
 
-/* line 1424, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1424, */
 .single-post-area .navigation-area .nav-right:hover .thumb img {
     opacity: .5;
 }
 
 @media (max-width: 991px) {
-    /* line 1432, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1432, */
 }
 
-/* line 1439, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1439, */
 .comments-area {
     background: transparent;
     border-top: 1px solid #eee;
@@ -4594,66 +4026,66 @@ hero-btn {
 
 @media (max-width: 414px) {
 
-    /* line 1439, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1439, */
     .comments-area {
         padding: 50px 8px;
     }
 }
 
-/* line 1450, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1450, */
 .comments-area h4 {
     margin-bottom: 35px;
     font-size: 18px;
 }
 
-/* line 1457, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1457, */
 .comments-area h5 {
     font-size: 16px;
     margin-bottom: 0px;
 }
 
-/* line 1466, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1466, */
 .comments-area .comment-list {
     padding-bottom: 48px;
 }
 
-/* line 1469, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1469, */
 .comments-area .comment-list:last-child {
     padding-bottom: 0px;
 }
 
-/* line 1473, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1473, */
 
 @media (max-width: 413px) {
 
-    /* line 1479, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1479, */
     .comments-area .comment-list .single-comment h5 {
         font-size: 12px;
     }
 
-    /* line 1483, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1483, */
     .comments-area .comment-list .single-comment .date {
         font-size: 11px;
     }
 
-    /* line 1487, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1487, */
     .comments-area .comment-list .single-comment .comment {
         font-size: 10px;
     }
 }
 
-/* line 1494, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1494, */
 .comments-area .thumb {
     margin-right: 20px;
 }
 
-/* line 1497, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1497, */
 .comments-area .thumb img {
     width: 70px;
     border-radius: 50%;
 }
 
-/* line 1503, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1503, */
 .comments-area .date {
     font-size: 14px;
     color: #999999;
@@ -4661,14 +4093,14 @@ hero-btn {
     margin-left: 20px;
 }
 
-/* line 1510, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1510, */
 .comments-area .comment {
     margin-bottom: 10px;
     color: #777777;
     font-size: 15px;
 }
 
-/* line 1516, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1516, */
 .comments-area .btn-reply {
     background-color: transparent;
     color: #888888;
@@ -4678,7 +4110,7 @@ hero-btn {
     font-weight: 400;
 }
 
-/* line 1533, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1533, */
 .comment-form {
     border-top: 1px solid #eee;
     padding-top: 45px;
@@ -4686,46 +4118,46 @@ hero-btn {
     margin-bottom: 20px;
 }
 
-/* line 1541, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1541, */
 .comment-form .form-group {
     margin-bottom: 30px;
 }
 
-/* line 1545, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1545, */
 .comment-form h4 {
     margin-bottom: 40px;
     font-size: 18px;
     line-height: 22px;
 }
 
-/* line 1553, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1553, */
 .comment-form .name {
     padding-left: 0px;
 }
 
 @media (max-width: 767px) {
 
-    /* line 1553, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1553, */
     .comment-form .name {
         padding-right: 0px;
         margin-bottom: 1rem;
     }
 }
 
-/* line 1562, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1562, */
 .comment-form .email {
     padding-right: 0px;
 }
 
 @media (max-width: 991px) {
 
-    /* line 1562, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+    /* line 1562, */
     .comment-form .email {
         padding-left: 0px;
     }
 }
 
-/* line 1570, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1570, */
 .comment-form .form-control {
     border: 1px solid #f0e9ff;
     border-radius: 5px;
@@ -4735,52 +4167,52 @@ hero-btn {
     background: transparent;
 }
 
-/* line 1578, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1578, */
 .comment-form .form-control:focus {
     outline: 0;
     box-shadow: none;
 }
 
-/* line 1583, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1583, */
 .comment-form .form-control::placeholder {
     font-weight: 300;
     color: #999999;
 }
 
-/* line 1588, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1588, */
 .comment-form .form-control::placeholder {
     color: #777777;
 }
 
-/* line 1593, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1593, */
 .comment-form textarea {
     padding-top: 18px;
     border-radius: 12px;
     height: 100% !important;
 }
 
-/* line 1599, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1599, */
 .comment-form ::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     font-size: 13px;
     color: #777;
 }
 
-/* line 1605, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1605, */
 .comment-form ::-moz-placeholder {
     /* Firefox 19+ */
     font-size: 13px;
     color: #777;
 }
 
-/* line 1611, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1611, */
 .comment-form :-ms-input-placeholder {
     /* IE 10+ */
     font-size: 13px;
     color: #777;
 }
 
-/* line 1617, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
+/* line 1617, */
 .comment-form :-moz-placeholder {
     /* Firefox 18- */
     font-size: 13px;
@@ -5007,19 +4439,19 @@ hero-btn {
 
 /* line 13, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_extend.scss */
 
-/* line 76, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 76,  */
 .sample-text-area {
     background: #fff;
     padding: 100px 0 70px 0;
 }
 
-/* line 81, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 81,  */
 .text-heading {
     margin-bottom: 30px;
     font-size: 24px;
 }
 
-/* line 86, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 86,  */
 b,
 sup,
 sub,
@@ -5028,7 +4460,7 @@ del {
     color: #1f2b7b;
 }
 
-/* line 95, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 95,  */
 .typography h1,
 .typography h2,
 .typography h3,
@@ -5038,29 +4470,29 @@ del {
     color: #828bb2;
 }
 
-/* line 105, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 105,  */
 .button-area {
     background: #fff;
 }
 
-/* line 106, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 106,  */
 .button-area .border-top-generic {
     padding: 70px 15px;
     border-top: 1px dotted #eee;
 }
 
-/* line 114, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 114,  */
 .button-group-area .genric-btn {
     margin-right: 10px;
     margin-top: 10px;
 }
 
-/* line 117, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 117,  */
 .button-group-area .genric-btn:last-child {
     margin-right: 0;
 }
 
-/* line 123, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 123,  */
 .genric-btn {
     display: inline-block;
     outline: none;
@@ -5077,43 +4509,43 @@ del {
     transition: all 0.3s ease 0s;
 }
 
-/* line 134, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 134,  */
 .genric-btn:focus {
     outline: none;
 }
 
-/* line 137, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 137,  */
 .genric-btn.e-large {
     padding: 0 40px;
     line-height: 50px;
 }
 
-/* line 141, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 141,  */
 .genric-btn.large {
     line-height: 45px;
 }
 
-/* line 144, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 144,  */
 .genric-btn.medium {
     line-height: 30px;
 }
 
-/* line 147, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 147,  */
 .genric-btn.small {
     line-height: 25px;
 }
 
-/* line 150, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 150,  */
 .genric-btn.radius {
     border-radius: 3px;
 }
 
-/* line 153, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 153,  */
 .genric-btn.circle {
     border-radius: 20px;
 }
 
-/* line 156, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 156,  */
 .genric-btn.arrow {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
@@ -5123,178 +4555,178 @@ del {
     align-items: center;
 }
 
-/* line 163, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 163,  */
 .genric-btn.arrow span {
     margin-left: 10px;
 }
 
-/* line 167, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 167,  */
 .genric-btn.default {
     color: #415094;
     background: #f9f9ff;
     border: 1px solid transparent;
 }
 
-/* line 171, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 171,  */
 .genric-btn.default:hover {
     border: 1px solid #f9f9ff;
     background: #fff;
 }
 
-/* line 176, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 176,  */
 .genric-btn.default-border {
     border: 1px solid #f9f9ff;
     background: #fff;
 }
 
-/* line 179, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 179,  */
 .genric-btn.default-border:hover {
     color: #415094;
     background: #f9f9ff;
     border: 1px solid transparent;
 }
 
-/* line 185, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 185,  */
 .genric-btn.primary {
     color: #fff;
     background: #1f2b7b;
     border: 1px solid transparent;
 }
 
-/* line 189, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 189,  */
 .genric-btn.primary:hover {
     color: #1f2b7b;
     border: 1px solid #1f2b7b;
     background: #fff;
 }
 
-/* line 195, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 195,  */
 .genric-btn.primary-border {
     color: #1f2b7b;
     border: 1px solid #1f2b7b;
     background: #fff;
 }
 
-/* line 199, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 199,  */
 .genric-btn.primary-border:hover {
     color: #fff;
     background: #1f2b7b;
     border: 1px solid transparent;
 }
 
-/* line 205, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 205,  */
 .genric-btn.success {
     color: #fff;
     background: #4cd3e3;
     border: 1px solid transparent;
 }
 
-/* line 209, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 209,  */
 .genric-btn.success:hover {
     color: #4cd3e3;
     border: 1px solid #4cd3e3;
     background: #fff;
 }
 
-/* line 215, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 215,  */
 .genric-btn.success-border {
     color: #4cd3e3;
     border: 1px solid #4cd3e3;
     background: #fff;
 }
 
-/* line 219, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 219,  */
 .genric-btn.success-border:hover {
     color: #fff;
     background: #4cd3e3;
     border: 1px solid transparent;
 }
 
-/* line 225, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 225,  */
 .genric-btn.info {
     color: #fff;
     background: #38a4ff;
     border: 1px solid transparent;
 }
 
-/* line 229, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 229,  */
 .genric-btn.info:hover {
     color: #38a4ff;
     border: 1px solid #38a4ff;
     background: #fff;
 }
 
-/* line 235, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 235,  */
 .genric-btn.info-border {
     color: #38a4ff;
     border: 1px solid #38a4ff;
     background: #fff;
 }
 
-/* line 239, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 239,  */
 .genric-btn.info-border:hover {
     color: #fff;
     background: #38a4ff;
     border: 1px solid transparent;
 }
 
-/* line 245, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 245,  */
 .genric-btn.warning {
     color: #fff;
     background: #f4e700;
     border: 1px solid transparent;
 }
 
-/* line 249, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 249,  */
 .genric-btn.warning:hover {
     color: #f4e700;
     border: 1px solid #f4e700;
     background: #fff;
 }
 
-/* line 255, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 255,  */
 .genric-btn.warning-border {
     color: #f4e700;
     border: 1px solid #f4e700;
     background: #fff;
 }
 
-/* line 259, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 259,  */
 .genric-btn.warning-border:hover {
     color: #fff;
     background: #f4e700;
     border: 1px solid transparent;
 }
 
-/* line 265, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 265,  */
 .genric-btn.danger {
     color: #fff;
     background: #f44a40;
     border: 1px solid transparent;
 }
 
-/* line 269, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 269,  */
 .genric-btn.danger:hover {
     color: #f44a40;
     border: 1px solid #f44a40;
     background: #fff;
 }
 
-/* line 275, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 275,  */
 .genric-btn.danger-border {
     color: #f44a40;
     border: 1px solid #f44a40;
     background: #fff;
 }
 
-/* line 279, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 279,  */
 .genric-btn.danger-border:hover {
     color: #fff;
     background: #f44a40;
     border: 1px solid transparent;
 }
 
-/* line 285, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 285,  */
 .genric-btn.link {
     color: #415094;
     background: #f9f9ff;
@@ -5302,14 +4734,14 @@ del {
     border: 1px solid transparent;
 }
 
-/* line 290, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 290,  */
 .genric-btn.link:hover {
     color: #415094;
     border: 1px solid #f9f9ff;
     background: #fff;
 }
 
-/* line 296, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 296,  */
 .genric-btn.link-border {
     color: #415094;
     border: 1px solid #f9f9ff;
@@ -5317,14 +4749,14 @@ del {
     text-decoration: underline;
 }
 
-/* line 301, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 301,  */
 .genric-btn.link-border:hover {
     color: #415094;
     background: #f9f9ff;
     border: 1px solid transparent;
 }
 
-/* line 307, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 307,  */
 .genric-btn.disable {
     color: #222222, 0.3;
     background: #f9f9ff;
@@ -5332,53 +4764,53 @@ del {
     cursor: not-allowed;
 }
 
-/* line 315, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 315,  */
 .generic-blockquote {
     padding: 30px 50px 30px 30px;
     background: #f9f9ff;
     border-left: 2px solid #1f2b7b;
 }
 
-/* line 321, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 321,  */
 .progress-table-wrap {
     overflow-x: scroll;
 }
 
-/* line 325, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 325,  */
 .progress-table {
     background: #f9f9ff;
     padding: 15px 0px 30px 0px;
     min-width: 800px;
 }
 
-/* line 329, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 329,  */
 .progress-table .serial {
     width: 11.83%;
     padding-left: 30px;
 }
 
-/* line 333, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 333,  */
 .progress-table .country {
     width: 28.07%;
 }
 
-/* line 336, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 336,  */
 .progress-table .visit {
     width: 19.74%;
 }
 
-/* line 339, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 339,  */
 .progress-table .percentage {
     width: 40.36%;
     padding-right: 50px;
 }
 
-/* line 343, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 343,  */
 .progress-table .table-head {
     display: flex;
 }
 
-/* line 345, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 345,  */
 .progress-table .table-head .serial,
 .progress-table .table-head .country,
 .progress-table .table-head .visit,
@@ -5389,14 +4821,14 @@ del {
     font-weight: 500;
 }
 
-/* line 355, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 355,  */
 .progress-table .table-row {
     padding: 15px 0;
     border-top: 1px solid #edf3fd;
     display: flex;
 }
 
-/* line 359, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 359,  */
 .progress-table .table-row .serial,
 .progress-table .table-row .country,
 .progress-table .table-row .visit,
@@ -5405,65 +4837,65 @@ del {
     align-items: center;
 }
 
-/* line 367, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 367,  */
 .progress-table .table-row .country img {
     margin-right: 15px;
 }
 
-/* line 372, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 372,  */
 .progress-table .table-row .percentage .progress {
     width: 80%;
     border-radius: 0px;
     background: transparent;
 }
 
-/* line 376, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 376,  */
 .progress-table .table-row .percentage .progress .progress-bar {
     height: 5px;
     line-height: 5px;
 }
 
-/* line 379, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 379,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-1 {
     background-color: #6382e6;
 }
 
-/* line 382, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 382,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-2 {
     background-color: #e66686;
 }
 
-/* line 385, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 385,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-3 {
     background-color: #f09359;
 }
 
-/* line 388, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 388,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-4 {
     background-color: #73fbaf;
 }
 
-/* line 391, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 391,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-5 {
     background-color: #73fbaf;
 }
 
-/* line 394, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 394,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-6 {
     background-color: #6382e6;
 }
 
-/* line 397, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 397,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-7 {
     background-color: #a367e7;
 }
 
-/* line 400, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 400,  */
 .progress-table .table-row .percentage .progress .progress-bar.color-8 {
     background-color: #e66686;
 }
 
-/* line 409, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 409,  */
 .single-gallery-image {
     margin-top: 30px;
     background-repeat: no-repeat !important;
@@ -5472,16 +4904,16 @@ del {
     height: 200px;
 }
 
-/* line 417, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 417,  */
 
-/* line 423, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 423,  */
 .unordered-list li {
     position: relative;
     padding-left: 30px;
     line-height: 1.82em !important;
 }
 
-/* line 427, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 427,  */
 .unordered-list li:before {
     content: "";
     position: absolute;
@@ -5494,12 +4926,12 @@ del {
     border-radius: 50%;
 }
 
-/* line 441, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 441,  */
 .ordered-list {
     margin-left: 30px;
 }
 
-/* line 443, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 443,  */
 .ordered-list li {
     list-style-type: decimal-leading-zero;
     color: #1f2b7b;
@@ -5507,13 +4939,13 @@ del {
     line-height: 1.82em !important;
 }
 
-/* line 448, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 448,  */
 .ordered-list li span {
     font-weight: 300;
     color: #828bb2;
 }
 
-/* line 456, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 456,  */
 .ordered-list-alpha li {
     margin-left: 30px;
     list-style-type: lower-alpha;
@@ -5522,13 +4954,13 @@ del {
     line-height: 1.82em !important;
 }
 
-/* line 462, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 462,  */
 .ordered-list-alpha li span {
     font-weight: 300;
     color: #828bb2;
 }
 
-/* line 470, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 470,  */
 .ordered-list-roman li {
     margin-left: 30px;
     list-style-type: lower-roman;
@@ -5537,13 +4969,13 @@ del {
     line-height: 1.82em !important;
 }
 
-/* line 476, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 476,  */
 .ordered-list-roman li span {
     font-weight: 300;
     color: #828bb2;
 }
 
-/* line 483, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 483,  */
 .single-input {
     display: block;
     width: 100%;
@@ -5554,17 +4986,17 @@ del {
     padding: 0 20px;
 }
 
-/* line 491, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 491,  */
 .single-input:focus {
     outline: none;
 }
 
-/* line 496, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 496,  */
 .input-group-icon {
     position: relative;
 }
 
-/* line 498, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 498,  */
 .input-group-icon .icon {
     position: absolute;
     left: 20px;
@@ -5573,17 +5005,17 @@ del {
     z-index: 3;
 }
 
-/* line 503, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 503,  */
 .input-group-icon .icon i {
     color: #797979;
 }
 
-/* line 508, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 508,  */
 .input-group-icon .single-input {
     padding-left: 45px;
 }
 
-/* line 513, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 513,  */
 .single-textarea {
     display: block;
     width: 100%;
@@ -5596,12 +5028,12 @@ del {
     resize: none;
 }
 
-/* line 523, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 523,  */
 .single-textarea:focus {
     outline: none;
 }
 
-/* line 528, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 528,  */
 .single-input-primary {
     display: block;
     width: 100%;
@@ -5612,13 +5044,13 @@ del {
     padding: 0 20px;
 }
 
-/* line 536, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 536,  */
 .single-input-primary:focus {
     outline: none;
     border: 1px solid #1f2b7b;
 }
 
-/* line 542, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 542,  */
 .single-input-accent {
     display: block;
     width: 100%;
@@ -5629,13 +5061,13 @@ del {
     padding: 0 20px;
 }
 
-/* line 550, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 550,  */
 .single-input-accent:focus {
     outline: none;
     border: 1px solid #eb6b55;
 }
 
-/* line 556, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 556,  */
 .single-input-secondary {
     display: block;
     width: 100%;
@@ -5646,13 +5078,13 @@ del {
     padding: 0 20px;
 }
 
-/* line 564, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 564,  */
 .single-input-secondary:focus {
     outline: none;
     border: 1px solid #f09359;
 }
 
-/* line 570, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 570,  */
 .default-switch {
     width: 35px;
     height: 17px;
@@ -5662,7 +5094,7 @@ del {
     cursor: pointer;
 }
 
-/* line 577, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 577,  */
 .default-switch input {
     position: absolute;
     left: 0;
@@ -5675,7 +5107,7 @@ del {
     cursor: pointer;
 }
 
-/* line 587, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 587,  */
 .default-switch input+label {
     position: absolute;
     top: 1px;
@@ -5692,12 +5124,12 @@ del {
     cursor: pointer;
 }
 
-/* line 600, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 600,  */
 .default-switch input:checked+label {
     left: 19px;
 }
 
-/* line 607, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 607,  */
 .primary-switch {
     width: 35px;
     height: 17px;
@@ -5707,7 +5139,7 @@ del {
     cursor: pointer;
 }
 
-/* line 614, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 614,  */
 .primary-switch input {
     position: absolute;
     left: 0;
@@ -5719,7 +5151,7 @@ del {
     opacity: 0;
 }
 
-/* line 623, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 623,  */
 .primary-switch input+label {
     position: absolute;
     left: 0;
@@ -5730,7 +5162,7 @@ del {
     height: 100%;
 }
 
-/* line 631, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 631,  */
 .primary-switch input+label:before {
     content: "";
     position: absolute;
@@ -5749,7 +5181,7 @@ del {
     transition: all 0.2s;
 }
 
-/* line 645, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 645,  */
 .primary-switch input+label:after {
     content: "";
     position: absolute;
@@ -5767,17 +5199,17 @@ del {
     cursor: pointer;
 }
 
-/* line 661, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 661,  */
 .primary-switch input:checked+label:after {
     left: 19px;
 }
 
-/* line 664, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 664,  */
 .primary-switch input:checked+label:before {
     background: #1f2b7b;
 }
 
-/* line 672, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 672,  */
 .confirm-switch {
     width: 35px;
     height: 17px;
@@ -5787,7 +5219,7 @@ del {
     cursor: pointer;
 }
 
-/* line 679, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 679,  */
 .confirm-switch input {
     position: absolute;
     left: 0;
@@ -5799,7 +5231,7 @@ del {
     opacity: 0;
 }
 
-/* line 688, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 688,  */
 .confirm-switch input+label {
     position: absolute;
     left: 0;
@@ -5810,7 +5242,7 @@ del {
     height: 100%;
 }
 
-/* line 696, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 696,  */
 .confirm-switch input+label:before {
     content: "";
     position: absolute;
@@ -5829,7 +5261,7 @@ del {
     cursor: pointer;
 }
 
-/* line 710, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 710,  */
 .confirm-switch input+label:after {
     content: "";
     position: absolute;
@@ -5847,17 +5279,17 @@ del {
     cursor: pointer;
 }
 
-/* line 726, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 726,  */
 .confirm-switch input:checked+label:after {
     left: 19px;
 }
 
-/* line 729, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 729,  */
 .confirm-switch input:checked+label:before {
     background: #4cd3e3;
 }
 
-/* line 737, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 737,  */
 .primary-checkbox {
     width: 16px;
     height: 16px;
@@ -5867,7 +5299,7 @@ del {
     cursor: pointer;
 }
 
-/* line 744, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 744,  */
 .primary-checkbox input {
     position: absolute;
     left: 0;
@@ -5879,7 +5311,7 @@ del {
     opacity: 0;
 }
 
-/* line 753, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 753,  */
 .primary-checkbox input+label {
     position: absolute;
     left: 0;
@@ -5893,13 +5325,13 @@ del {
     border: 1px solid #f1f1f1;
 }
 
-/* line 766, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 766,  */
 .primary-checkbox input:checked+label {
     background: url(../img/elements/primary-check.png) no-repeat center center/cover;
     border: none;
 }
 
-/* line 774, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 774,  */
 .confirm-checkbox {
     width: 16px;
     height: 16px;
@@ -5909,7 +5341,7 @@ del {
     cursor: pointer;
 }
 
-/* line 781, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 781,  */
 .confirm-checkbox input {
     position: absolute;
     left: 0;
@@ -5921,7 +5353,7 @@ del {
     opacity: 0;
 }
 
-/* line 790, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 790,  */
 .confirm-checkbox input+label {
     position: absolute;
     left: 0;
@@ -5935,13 +5367,13 @@ del {
     border: 1px solid #f1f1f1;
 }
 
-/* line 803, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 803,  */
 .confirm-checkbox input:checked+label {
     background: url(../img/elements/success-check.png) no-repeat center center/cover;
     border: none;
 }
 
-/* line 811, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 811,  */
 .disabled-checkbox {
     width: 16px;
     height: 16px;
@@ -5951,7 +5383,7 @@ del {
     cursor: pointer;
 }
 
-/* line 818, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 818,  */
 .disabled-checkbox input {
     position: absolute;
     left: 0;
@@ -5963,7 +5395,7 @@ del {
     opacity: 0;
 }
 
-/* line 827, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 827,  */
 .disabled-checkbox input+label {
     position: absolute;
     left: 0;
@@ -5977,19 +5409,19 @@ del {
     border: 1px solid #f1f1f1;
 }
 
-/* line 839, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 839,  */
 .disabled-checkbox input:disabled {
     cursor: not-allowed;
     z-index: 3;
 }
 
-/* line 844, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 844,  */
 .disabled-checkbox input:checked+label {
     background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
     border: none;
 }
 
-/* line 852, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 852,  */
 .primary-radio {
     width: 16px;
     height: 16px;
@@ -5999,7 +5431,7 @@ del {
     cursor: pointer;
 }
 
-/* line 859, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 859,  */
 .primary-radio input {
     position: absolute;
     left: 0;
@@ -6011,7 +5443,7 @@ del {
     opacity: 0;
 }
 
-/* line 868, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 868,  */
 .primary-radio input+label {
     position: absolute;
     left: 0;
@@ -6025,13 +5457,13 @@ del {
     border: 1px solid #f1f1f1;
 }
 
-/* line 881, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 881,  */
 .primary-radio input:checked+label {
     background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
     border: none;
 }
 
-/* line 889, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 889,  */
 .confirm-radio {
     width: 16px;
     height: 16px;
@@ -6041,7 +5473,7 @@ del {
     cursor: pointer;
 }
 
-/* line 896, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 896,  */
 .confirm-radio input {
     position: absolute;
     left: 0;
@@ -6053,7 +5485,7 @@ del {
     opacity: 0;
 }
 
-/* line 905, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 905,  */
 .confirm-radio input+label {
     position: absolute;
     left: 0;
@@ -6067,13 +5499,13 @@ del {
     border: 1px solid #f1f1f1;
 }
 
-/* line 918, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 918,  */
 .confirm-radio input:checked+label {
     background: url(../img/elements/success-radio.png) no-repeat center center/cover;
     border: none;
 }
 
-/* line 926, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 926,  */
 .disabled-radio {
     width: 16px;
     height: 16px;
@@ -6083,7 +5515,7 @@ del {
     cursor: pointer;
 }
 
-/* line 933, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 933,  */
 .disabled-radio input {
     position: absolute;
     left: 0;
@@ -6095,7 +5527,7 @@ del {
     opacity: 0;
 }
 
-/* line 942, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 942,  */
 .disabled-radio input+label {
     position: absolute;
     left: 0;
@@ -6109,24 +5541,24 @@ del {
     border: 1px solid #f1f1f1;
 }
 
-/* line 954, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 954,  */
 .disabled-radio input:disabled {
     cursor: not-allowed;
     z-index: 3;
 }
 
-/* line 959, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 959,  */
 .disabled-radio input:checked+label {
     background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
     border: none;
 }
 
-/* line 967, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 967,  */
 .default-select {
     height: 40px;
 }
 
-/* line 969, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 969,  */
 .default-select .nice-select {
     border: none;
     border-radius: 0px;
@@ -6136,7 +5568,7 @@ del {
     padding-right: 40px;
 }
 
-/* line 976, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 976,  */
 .default-select .nice-select .list {
     margin-top: 0;
     border: none;
@@ -6146,7 +5578,7 @@ del {
     padding: 10px 0 10px 0px;
 }
 
-/* line 983, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 983,  */
 .default-select .nice-select .list .option {
     font-weight: 300;
     -webkit-transition: all 0.3s ease 0s;
@@ -6159,36 +5591,36 @@ del {
     padding-left: 20px;
 }
 
-/* line 990, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 990,  */
 .default-select .nice-select .list .option.selected {
     color: #1f2b7b;
     background: transparent;
 }
 
-/* line 994, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 994,  */
 .default-select .nice-select .list .option:hover {
     color: #1f2b7b;
     background: transparent;
 }
 
-/* line 1001, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1001,  */
 .default-select .current {
     margin-right: 50px;
     font-weight: 300;
 }
 
-/* line 1005, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1005,  */
 .default-select .nice-select::after {
     right: 20px;
 }
 
-/* line 1010, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1010,  */
 .form-select {
     height: 40px;
     width: 100%;
 }
 
-/* line 1013, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1013,  */
 .form-select .nice-select {
     border: none;
     border-radius: 0px;
@@ -6199,7 +5631,7 @@ del {
     width: 100%;
 }
 
-/* line 1021, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1021,  */
 .form-select .nice-select .list {
     margin-top: 0;
     border: none;
@@ -6209,7 +5641,7 @@ del {
     padding: 10px 0 10px 0px;
 }
 
-/* line 1028, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1028,  */
 .form-select .nice-select .list .option {
     font-weight: 300;
     -webkit-transition: all 0.3s ease 0s;
@@ -6222,51 +5654,51 @@ del {
     padding-left: 45px;
 }
 
-/* line 1035, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1035,  */
 .form-select .nice-select .list .option.selected {
     color: #1f2b7b;
     background: transparent;
 }
 
-/* line 1039, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1039,  */
 .form-select .nice-select .list .option:hover {
     color: #1f2b7b;
     background: transparent;
 }
 
-/* line 1046, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1046,  */
 .form-select .current {
     margin-right: 50px;
     font-weight: 300;
 }
 
-/* line 1050, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1050,  */
 .form-select .nice-select::after {
     right: 20px;
 }
 
-/* line 1054, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1054,  */
 .mt-10 {
     margin-top: 10px;
 }
 
-/* line 1057, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1057,  */
 .section-top-border {
     padding: 50px 0;
     border-top: 1px dotted #eee;
 }
 
-/* line 1061, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1061,  */
 .mb-30 {
     margin-bottom: 30px;
 }
 
-/* line 1064, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1064,  */
 .mt-30 {
     margin-top: 30px;
 }
 
-/* line 1067, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_elements.scss */
+/* line 1067,  */
 .switch-wrap {
     margin-bottom: 10px;
 }
